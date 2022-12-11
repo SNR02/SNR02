@@ -1,9 +1,12 @@
-![MasterHead](https://github.com/SNR02/banner.png)
+
+![1670782670371](https://user-images.githubusercontent.com/109890201/206921435-15d6e199-1acc-4a39-be63-cef876c513b7.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Shaik Nayyar Rabbani</h1>
 <h3 align="center">May be upcoming Full Stack Developer or ML Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 
 - 🌱 I’m currently learning **Data Structures and algorithms, Full Stack Development and Machine Learning**

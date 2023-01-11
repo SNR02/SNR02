@@ -3,18 +3,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Shaik Nayyar Rabbani</h1>
-<h3 align="center">Upcoming Full Stack Developer or ML Engineer</h3>
-
+<h3 align="center">Upcoming Full Stack Developer or ML Engineer</h3></p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
+<br><br><br>
 
 - 🌱 I’m currently learning **Data Structures and algorithms, Full Stack Development and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Project based on Web Development and Hosting**
 
 - 📫 How to reach me **rabbaniroyal7@gmail.com**
-
+<br><br><br><br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=snr02&label=Profile%20views&color=0e75b6&style=flat" alt="snr02"></p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snr02" alt="snr02" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nayyarrabbani3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayyarrabbani3" height="30" width="40" /></a>

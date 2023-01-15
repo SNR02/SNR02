@@ -17,6 +17,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=snr02&label=Profile%20views&color=0e75b6&style=flat" alt="snr02"></p><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snr02" alt="snr02" /></a> </p>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/nayyarrabbani3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayyarrabbani3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik-nayyar-rabbani-559013213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-nayyar-rabbani-559013213" height="30" width="40" /></a>

@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Shaik Nayyar Rabbani</h1>
 
-<h3 align="center">Upcoming Full Stack Developer or ML Engineer</h3></p>
+<h3 align="center">Upcoming Full stack Developer and ML Engineer</h3></p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <br><br><br>
 
 - 🌱 I’m currently learning **Data Structures and algorithms, Full Stack Development and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Project based on Web Development and Hosting**
+- 👯 I’m looking to collaborate on **Projects based on Web Development, Machine learning and Hosting**
 
 - 📫 How to reach me **rabbaniroyal7@gmail.com**
 <br><br><br><br>

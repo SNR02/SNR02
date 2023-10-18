@@ -35,4 +35,5 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snr02&theme=dracula" alt="snr02" /></p>
 
-[![SNR's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=snr02&theme=dracula)](https://github.com/snr02/github-readme-activity-graph)
+[![SNR's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=&theme=dracula)](https://github.com/snr02/github-readme-activity-graph)
+[![SNR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snr02)](https://github.com/ashutosh00710/github-readme-activity-graph)
